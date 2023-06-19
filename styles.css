@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 .hero{
 	aspect-ratio:clip;
-	object-fit:cover;
+	object-fit:fill;
 	padding:5px;
 	width:1150px;
 	position:absolute;
