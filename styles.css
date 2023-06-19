@@ -1,7 +1,6 @@
 /*  your css code here. If applicable */
 .hero{
 	aspect-ratio:clip;
-	object-fit:fill;
 	padding:5px;
 	width:1150px;
 	position:absolute;
@@ -9,6 +8,9 @@
 .content{
 	width:1600px;
 	height:800px;
+}
+#img{
+	object-fit:cover;
 }
 .info{
 	height:250px;
