@@ -2,4 +2,28 @@
 .hero{
 	aspect-ratio:clip;
 	object-fit:cover;
+	padding:5px;
+	width:1150px;
+	position:absolute;
+}
+.content{
+	width:1600px;
+	height:800px;
+}
+.info{
+	height:250px;
+	width:250px;
+	position:absolute;
+	left:1200px;
+	top:250px;
+}
+.btn{
+	text-align:center;
+	width:100px;
+	padding:5px;
+	position:absolute;
+	left:70px;
+	background-color:#FE0001;
+	color:white;
+	border:none;
 }
